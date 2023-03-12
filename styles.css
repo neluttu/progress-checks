@@ -70,17 +70,18 @@ body {
         margin-right: 0px;
         width: 96%;
         margin:auto;
-        padding: 30px;
     }
 
     .container > div:last-of-type {
         display: block;
         width: auto;
-        max-width: 96%;
-        box-shadow: none;
-        margin: auto;
-        margin-top:30px;
-        
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: 2%;
+        margin-top:60px;
+        -webkit-box-shadow: -42px -46px 0px 5px #4D9DF1; 
+        box-shadow: -22px -23px 0px 5px #4D9DF1;
+    
     }
 }
 
