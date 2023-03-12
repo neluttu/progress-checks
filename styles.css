@@ -7,7 +7,7 @@ body, html {
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 300;
-
+    color: #bdc1f1;
     scroll-behavior: smooth;
 }
 
@@ -34,7 +34,6 @@ body {
 .container {
     display: flex;
     width: auto;
-    color: white;
     min-height: 200px;
     margin: 10px;
     max-width: 1024px;
