@@ -68,17 +68,19 @@ body {
         display: block;
         width: auto;
         margin-right: 0px;
-        width: 80%;
+        width: 96%;
         margin:auto;
+        padding: 30px;
     }
 
     .container > div:last-of-type {
         display: block;
         width: auto;
-        max-width: 60%;
-        margin-left: auto;
-        margin-right: 10%;
-        margin-top:100px
+        max-width: 96%;
+        box-shadow: none;
+        margin: auto;
+        margin-top:30px;
+        
     }
 }
 
